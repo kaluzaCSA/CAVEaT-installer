@@ -6,12 +6,9 @@ setlocal EnableDelayedExpansion
 :: Version 1.0
 
 echo.
-echo  ╔═══════════════════════════════════════════════════════════════╗
-echo  ║                    CAVEaT Toolkit Installer                   ║
-echo  ║           Cloud Security Alliance Development Setup           ║
-echo  ║                         Version 1.0                          ║
-echo  ║                         Windows                               ║
-echo  ╚═══════════════════════════════════════════════════════════════╝
+echo  ===============================================================
+echo  =                Installation Complete!                      =
+echo  ===============================================================
 echo.
 echo  🔧 Setting up your CAVEaT development environment...
 echo.
